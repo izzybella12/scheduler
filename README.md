@@ -24,6 +24,6 @@ npm test
 npm run storybook
 ```
 !["Screenshot of the layout of the Interview App"]()
-!["Screenshot of the layout of the Interview App"]()
+!["Screenshot of a confirmation notification before an interview is deleted"](https://github.com/izzybella12/scheduler/blob/master/docs/delete_confirmation.png?raw=true)
 !["Screenshot of the layout of the Interview App"]()
 !["Screenshot of the layout of the Interview App"]()
