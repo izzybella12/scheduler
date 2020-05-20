@@ -23,3 +23,7 @@ npm test
 ```sh
 npm run storybook
 ```
+!["Screenshot of the layout of the Interview App"]()
+!["Screenshot of the layout of the Interview App"]()
+!["Screenshot of the layout of the Interview App"]()
+!["Screenshot of the layout of the Interview App"]()
