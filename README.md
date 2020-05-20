@@ -23,7 +23,7 @@ npm test
 ```sh
 npm run storybook
 ```
-!["Screenshot of the layout of the Interview App"]()
+!["Screenshot of the layout of the Interview App"](https://github.com/izzybella12/scheduler/blob/master/docs/layout.png?raw=true)
 !["Screenshot of a confirmation notification before an interview is deleted"](https://github.com/izzybella12/scheduler/blob/master/docs/delete_confirmation.png?raw=true)
 !["Screenshot of an error message when the server cannot fulfull an API request"](https://github.com/izzybella12/scheduler/blob/master/docs/error_http_request.png?raw=true)
 !["Screenshot of the layout of the Interview App"]()
