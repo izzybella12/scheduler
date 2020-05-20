@@ -76,8 +76,8 @@ export default function Appointment(props) {
   function deleting() {
     handleOnDeleting();
     props.onDelete(props.id)
-    .then(() => transition(EMPTY))
-    .catch(() => transition(ERROR_DELETE, true))
+    .then(handleOnDelete)
+    .catch(handleOnDeletingError)
   }
 
   function editing() {

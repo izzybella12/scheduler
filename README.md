@@ -1,5 +1,7 @@
 # Interview Scheduler
 
+This is my first application using REACT. This project has close to 100% code coverage! Enjoy :) 
+
 ## Setup
 
 Install dependencies with `npm install`.
